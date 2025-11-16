@@ -18,6 +18,7 @@
   "homepage": "https://github.com/kirilaf78/Task-2#readme",
   "devDependencies": {
     "@playwright/test": "^1.56.1",
-    "@types/node": "^24.10.1"
+    "@types/node": "^24.10.1",
+    "dotenv": "^17.2.3"
   }
 }
